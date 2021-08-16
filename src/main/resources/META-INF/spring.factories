@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.pccw.ruby.common.config.CommonConfig,\
+com.pccw.ruby.common.config.CommonFeignConfig,\
+com.pccw.ruby.common.config.CommonLoggingConfig,\
+com.pccw.ruby.common.config.CommonSwaggerConfig,\
+com.pccw.ruby.common.exception.handler.CommonResponseEntityExceptionHandler
